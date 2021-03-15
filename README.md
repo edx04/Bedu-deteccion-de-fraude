@@ -15,4 +15,4 @@ Proyecto de la fase dos de BEDU python - Data Science
 ## Notas del código
 - **El jupyter notebook fue probado unicamente en google colab**
 -  El codigo se encuentra en el archivo [Proyecto.ipynb](./Proyecto.ipynb)
-- No se requiere cargar el dataset,el mismo codigo descarga los datos
+- No se requiere cargar el dataset,el mismo codigo se encarga de descargarlo.
